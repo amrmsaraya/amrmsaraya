@@ -77,6 +77,6 @@
 ---
 
 ### 🔥 My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrmsaraya&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&border_radius=10)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrmsaraya&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&border_radius=10)](https://github.com/amrmsaraya)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrmsaraya&layout=compact&theme=dracula&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrmsaraya&layout=compact&theme=dracula&hide_border=true&border_radius=10)](https://github.com/amrmsaraya)
