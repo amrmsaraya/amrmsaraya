@@ -64,13 +64,13 @@
 
 <div>
   <a href="https://github.com/amrmsaraya/clock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrmsaraya&repo=clock&theme=dracula&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrmsaraya&repo=clock&theme=dracula&hide_border=true&border_radius=10"/>
   </a>
   <a href="https://github.com/amrmsaraya/weather">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrmsaraya&repo=weather&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrmsaraya&repo=weather&theme=dracula&hide_border=true&border_radius=10" />
   </a>
   <a href="https://github.com/amrmsaraya/timer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrmsaraya&repo=timer&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrmsaraya&repo=timer&theme=dracula&hide_border=true&border_radius=10" />
   </a>
 </div>
 
