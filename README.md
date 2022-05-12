@@ -35,8 +35,8 @@
 </p>
 
 ### 🤵 About Me :
-
 - ⚡ Software Engineer | Android
+- ⚡ Google Certified Andoroid Associate Developer - [View Certificate](https://www.credential.net/6d728712-d856-4522-b7f6-e65241ad3ea7)
 - 😄 Pronouns: He/Him
 - 💬 Ask me about:
   - Clean Architecutre
